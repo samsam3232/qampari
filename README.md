@@ -1,5 +1,5 @@
 # QAMPARI
-Official repository of the paper: "QAMPARI: An Open-domain Question Answering Benchmark for Questions with Many Answers from Multiple Paragraphs" (arxiv: https://arxiv.org/abs/2205.12665)
+Official repository of the paper: "QAMPARI: An Open-domain Question Answering Benchmark for Questions with Many Answers from Multiple Paragraphs" (arxiv: https://arxiv.org/abs/2205.12665 website: https://samsam3232.github.io/qampari/)
 
 QAMPARI is a dataset for Open Domain Question Answer (ODQA) composed of questions with many answers coming from multiple
 paragraphes. Unlike most of ODQA tasks, each question in QAMPARI has multiple answers. For example:  

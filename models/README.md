@@ -1,5 +1,10 @@
 # Models training
 
+The trained model:
+- [DPR](https://aggreg-qa.s3.amazonaws.com/models/dpr_model.tar.gz)
+- [RAG-large multi](https://aggreg-qa.s3.amazonaws.com/models/RAG_model.tar.gz)
+- [FiD-large multi](https://aggreg-qa.s3.amazonaws.com/models/FiD_model.tar.gz)
+
 ## Retrievers
 
 Note that the retriever pipeline is long to run, and the results of both BM25 and DPR are available on our website.
